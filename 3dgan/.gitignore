@@ -6,5 +6,5 @@
 
 /generated_voxels/generated_sample_*
 
-/models/save/
+/models/save/generator.pt
 /voxels/voxels.npy
