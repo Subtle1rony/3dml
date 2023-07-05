@@ -3,7 +3,7 @@
 /venv/
 3dgan.code-workspace
 /__pycache__/
-/img/
+
 /generated_voxels/generated_sample_*
 
 /models/save/
