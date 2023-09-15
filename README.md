@@ -1,3 +1,8 @@
+# 3DGAN
+A 3d point cloud generative adversarial network, trained to produce digits 0-9.
+
+The point cloud dataset was generated with Sidefx Houdini and the image below is a sample of generated digits.
+
 # 
 ![plot](./3dgan/img/numbers.jpg)
 
